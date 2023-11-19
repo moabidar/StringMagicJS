@@ -11,4 +11,4 @@
 You can install this module using npm:
 
 ```bash
-npm install StringMagicJS
+npm install stringmagicjs
